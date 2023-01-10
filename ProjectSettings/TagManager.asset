@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cabin
+  - BulletPoint
+  - Enemy
+  - Warp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Floor
+  - Water
+  - UI
+  - Warp
+  - Tire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3868509897
+    locked: 0
+  - name: Cabin
+    uniqueID: 804048285
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tire
+    uniqueID: 867061125
+    locked: 0
+  - name: Warp
+    uniqueID: 3955285987
+    locked: 0
